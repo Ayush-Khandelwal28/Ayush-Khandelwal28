@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+- 👋 Hi, I’m Ayush Khandelwal, a 2nd year undergraduate student pursuing B.Tech in CSE from IIIT Vadodara. 
+- 👀 I’m interested in Web Development and currently learning Mern Stack.
+- 📫 You can reach me via LinkedIN : https://www.linkedin.com/in/ayushkhandelwal28/
 
 <!--
 **Ayush-Khandelwal28/Ayush-Khandelwal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
