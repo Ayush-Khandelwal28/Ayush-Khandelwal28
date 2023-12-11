@@ -1,7 +1,7 @@
 
 
-- 👋 Hi, I’m Ayush Khandelwal, a 2nd year undergraduate student pursuing B.Tech in CSE from IIIT Vadodara. 
-- 👀 I’m interested in Web Development and currently learning Mern Stack.
+- 👋 Hi, I’m Ayush Khandelwal, a 3rd year undergraduate student pursuing B.Tech in CSE from IIIT Vadodara. 
+- 👀 I’m interested in Web Development and currently exploring Web3.
 - 📫 You can reach me via LinkedIN : https://www.linkedin.com/in/ayushkhandelwal28/
 
 <!--
