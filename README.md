@@ -9,11 +9,11 @@
 
 - 💻 Final year UG student pursuing B.Tech in CSE from IIIT Vadodara. 
 
-- 🌱 I’m currently learning **NextJs** 
+- 🌱 I’m currently learning **Rust and NextJS** 
 
 - 📫 Reach me through **[LinkedIn](https://linkedin.com/in/ayushkhandelwal28)**
 
-- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1u8HcwIp4yyEdyP81gpE5kXTbOpqkgI6_/view?usp=sharing)**
+- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1beFmuKQ2yL7JUDgbhxfRfWizcSZSxYqZ/view?usp=sharing)**
 
 
 # 👋 Connect with me:
