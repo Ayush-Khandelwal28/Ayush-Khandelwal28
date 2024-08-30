@@ -13,7 +13,7 @@
 
 - 📫 Reach me through **[LinkedIn](https://linkedin.com/in/ayushkhandelwal28)**
 
-- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1beFmuKQ2yL7JUDgbhxfRfWizcSZSxYqZ/view?usp=sharing)**
+- 📄 Know more about me **[Resume](https://drive.google.com/file/d/15_KwojjwKmpWN0UywojiifBzIngxBUvs/view?usp=sharing)**
 
 
 # 👋 Connect with me:
