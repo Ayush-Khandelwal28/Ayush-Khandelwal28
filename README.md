@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 
 
-<h3 align="center">A FullStack Web3 Developer</h3>
+<h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-khandelwal28&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-khandelwal28" /> </p>
 
