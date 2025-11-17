@@ -13,13 +13,12 @@
 
 - 📫 Reach me through **[LinkedIn](https://linkedin.com/in/ayushkhandelwal28)**
 
-- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1otfq9EruSaHxlSmNS4vHXDGFcaslJIzJ/view?usp=sharing)**
+- 📄 Know more about me **[Resume](https://drive.google.com/file/d/1v9z6BOgXzqdE36V3ERAMzU5se_p2ASEZ/view?usp=sharing)**
 
 
 # 👋 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ayushkhandelwal28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkhandelwal28" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushtwt" height="30" width="40" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
